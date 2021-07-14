@@ -38,10 +38,10 @@ a {
 }
 /*Header*/
 header {
-    background-image: url(/victoria-shes-XgFFJKSPkNk-unsplash.jpg);
+    background-image: url(./background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: right;
+    background-position: bottom;
     height: 100vh;
     z-index: 1;
 }
